@@ -90,7 +90,8 @@ xor g2(sum,w[1],c);
 and g3(w[2],a,b);
 and g4(w[3],w[1],c);
 or g5(carry,w[3],w[2]);
-endmodul```
+endmodul
+```
 
 OUTPUT:![Screenshorts Image 2024-04-13 at 10 00 00_ec82e408](https://github.com/Mohanraj7896/VLSI-LAB-EXP-3/assets/166592482/a58b5d2b-692e-4cea-a06c-8da0ba287e40)
 
