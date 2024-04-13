@@ -91,7 +91,9 @@ and g3(w[2],a,b);
 and g4(w[3],w[1],c);
 or g5(carry,w[3],w[2]);
 endmodul```
-OUTPUT:![Screenshorts Image 2024-04-13 at 10 00 00_ec82e408](https://github.com/Mohanraj7896/VLSI-LAB-EXP-3/assets/166592482/5801b383-72a9-48c8-8c46-3d182cb6e33b)
+
+OUTPUT:![Screenshorts Image 2024-04-13 at 10 00 00_ec82e408](https://github.com/Mohanraj7896/VLSI-LAB-EXP-3/assets/166592482/792aa7dd-dcb0-4d30-a53d-cb3ee77b13f6)
+
 
 
 
