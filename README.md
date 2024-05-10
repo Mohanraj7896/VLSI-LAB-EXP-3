@@ -32,7 +32,14 @@ STEP:11  On the board, by giving required input, the LEDs starts to glow light, 
 
 
 **Verilog code**
+
+LOGIC DIAGRAM:
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/7713750f-65e6-41c0-8082-5005eac4031c)
+
+
 2 bit Multiplier:
+
 ```
 module HalfAdder(a,b,sum,carry);
 input a,b;
@@ -55,7 +62,12 @@ endmodule
 ```
 OUTPUT:![Screenshots Image 2024-04-13 at 10 00 00_88508c30](https://github.com/Mohanraj7896/VLSI-LAB-EXP-3/assets/166592482/fbc7160c-35bf-46ca-b4e9-0a162234f28d)
 
+LOGIC DIAGRAM:
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/d95215dd-8cf1-4e08-93cc-96adfdd7fbdc)
+
 4 bit Multiplier:
+
 ```
 module multiplier4_4(z,a,b);
 input [3:0]a,b;
