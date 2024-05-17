@@ -1,8 +1,8 @@
                                                                                                                                                                                                    G.MOHANRAJ                                                                                                                                                                                                   212223060166
 
 SIMULATION AND IMPLEMENTATION OF MULTIPLIER
-**AIM: **
- To simulate and synthesis multiplier using Xilinx ISE.
+
+AIM:To simulate and synthesis multiplier using Xilinx ISE.
 
 **APPARATUS REQUIRED:**
 Xilinx 14.7
