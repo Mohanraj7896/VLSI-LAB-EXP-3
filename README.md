@@ -1,13 +1,13 @@
                                                                                                                                                                                                    G.MOHANRAJ                                                                                                                                                                                                   212223060166
 
-SIMULATION AND IMPLEMENTATION OF MULTIPLIER
+# SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 
-AIM:To simulate and synthesis multiplier using Xilinx ISE.
+# AIM:To simulate and synthesis multiplier using Xilinx ISE.
 
 **APPARATUS REQUIRED:**
 Xilinx 14.7
 Spartan6 FPGA
-  
+```  
 **PROCEDURE:**
 STEP:1  Start  the Xilinx navigator, Select and Name the New project.
 STEP:2  Select the device family, device, package and speed.       
@@ -20,7 +20,7 @@ STEP:8  Select Check Syntax from the Synthesize  XST Process. Double Click in th
 STEP:9  In the Design Object List Window, enter the pin location for each pin in the Loc column Select save from the File menu.
 STEP:10 Double click on the Implement Design and double click on the Generate Programming File to create a bitstream of the design.(.v) file is converted into .bit file here.
 STEP:11  On the board, by giving required input, the LEDs starts to glow light, indicating the output.
-
+```
 **Logic Diagram**
 2 bit Multiplier
 
@@ -109,7 +109,7 @@ OUTPUT:![Screenshorts Image 2024-04-13 at 10 00 00_ec82e408](https://github.com/
 
 
 
-RESULT:To simulate and synthesis multiplier using Xilinx ISE is completed.
+# RESULT:To simulate and synthesis multiplier using Xilinx ISE is completed.
 
 
 
